@@ -48,4 +48,3 @@ console.log("6. lowercaseFirstLetter('Hello'):", lowercaseFirstLetter('Hello'));
 console.log("7. findAverage([1, 2, 3, 4, 5]):", findAverage([1, 2, 3, 4, 5]));
 console.log("8. isLeapYear(2024):", isLeapYear(2024));
 
-1111
